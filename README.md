@@ -4,7 +4,7 @@
 
 ### Local toolkit for preparing, analyzing and protecting FiveM/RedM resources
 
-![ResourceStudio](https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1600&q=85)
+![ResourceStudio dashboard](docs/screenshots/Screenshot%202026-08-09%20204502.png)
 
 **A private, local-first workspace for resource developers.**
 
@@ -20,7 +20,15 @@ ResourceStudio is a local web panel for preparing FiveM and RedM resources witho
 
 ## Features
 
-![Development workspace](https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1200&q=85)
+## Panel screenshots
+
+![Home dashboard](docs/screenshots/Screenshot%202026-08-09%20204502.png)
+
+![fxmanifest generator](docs/screenshots/Screenshot%202026-08-11%20095537.png)
+
+![Lua protection](docs/screenshots/Screenshot%202026-08-11%20095551.png)
+
+![Advanced obfuscation](docs/screenshots/Screenshot%202026-08-11%20095604.png)
 
 - **fxmanifest generator** — analyzes resources and identifies missing or unlisted files.
 - **Lua protection** — prepares copies with optional IP and license validation.
